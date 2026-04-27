@@ -37,8 +37,8 @@ The final results showed that the 3-mer logistic regression model performed best
 ```text
 .
 ├── README.md
-├── amino_acid_frequency_logistic_regression.ipynb
-├── dipeptide_frequency_logistic_regression.ipynb
-├── kmer_logistic_regression.ipynb
-└── blast_homology_baseline.ipynb
+├── amino_acid_freq.ipynb
+├── dipeptide_freq.ipynb
+├── 3_mers.ipynb
+└── homology_based_baseline.ipynb
 
